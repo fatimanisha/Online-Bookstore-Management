@@ -47,5 +47,3 @@ After launching the application, you can:
 - Add books to your cart and proceed to checkout.
 - As an admin, manage the book inventory and orders.
 
-
-Feel free to modify this template to include any additional sections or details specific to your project, such as documentation links, screenshots, technology stack, or contact information.
